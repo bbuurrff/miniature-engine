@@ -12,7 +12,7 @@ Vue.component('google-map', VueGoogleMaps.Map);
 
 Vue.use(VueGoogleMaps, {
     load: {
-        key: 'AIzaSyBn7GMI-MdmtRv0mfpGR3TRGe6Y122a5Mw'
+        key: ''
     },
     //installComponents: true, 
 });
